@@ -189,5 +189,4 @@ For questions or clarifications, refer to:
 - Architecture design documents
 
 ---
-**Course:** ICS 2403 - Distributed Systems  
-**Submission Date:** February 2026
+
